@@ -1,0 +1,8 @@
+# Sao chép thành data/plate.yaml rồi sửa đường dẫn theo bộ dữ liệu YOLO thực tế.
+# Đây là ví dụ cho bộ chỉ có một lớp biển số. Kiểm tra names trong dataset gốc.
+path: ../dataset_plate
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: license_plate

@@ -1,0 +1,6 @@
+Nguon: VehicleAI.zip da mat toan bo duong dan thu muc.
+So file trong ZIP nguon: 3151.
+So file trich xuat: 3163.
+So ten file bi trung o cay thu muc: 135.
+Cac file ten trung chi co 1 ban trong ZIP, khong the tai tao nhung noi dung khac nhau da mat.
+Dac biet, mot so anh train/test bi trung basename; khong su dung de bao cao do chinh xac.

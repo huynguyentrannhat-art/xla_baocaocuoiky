@@ -1,0 +1,2 @@
+# Python package cho OCR; cài Tesseract OCR desktop riêng trên Windows.
+pytesseract>=0.3.13

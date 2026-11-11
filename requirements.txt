@@ -1,0 +1,7 @@
+# Python 3.11+; Python 3.14 can dung ban PyTorch/Ultralytics co wheel tuong thich.
+ultralytics>=8.4,<9
+opencv-python>=4.8,<5
+numpy>=1.26,<3
+Pillow>=10,<13
+PyYAML>=6,<7
+streamlit>=1.40,<2

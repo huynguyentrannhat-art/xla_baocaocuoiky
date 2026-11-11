@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+output/*
+!output/.gitkeep
+runs/
+weights/*.pt
+dataset/images/*/*.jpg
+dataset/images/*/*.jpeg
+dataset/images/*/*.png
+dataset/labels/*/*.txt
+data/vehicles_vn_local.yaml
